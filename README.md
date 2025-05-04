@@ -39,7 +39,7 @@ Color Styles:
 
 
 
-Typography:
+      Typography:
 
 .Primary Font: Circular, Medium (500), 16px
 
@@ -92,7 +92,7 @@ Responsive menu
 
 
 
-Property Card
+      Property Card
 
 Property image
 
@@ -105,7 +105,7 @@ Responsive layout
 
 
 
-Footer
+      Footer
 
 Site links
 
