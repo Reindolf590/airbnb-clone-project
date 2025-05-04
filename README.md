@@ -10,7 +10,8 @@ Version Control: Git and GitHub
 Design Tools: Figma for UI/UX design
 
                         UI/UX Design Planning
-The design goals are to create intuitive booking flow, maintain visual consistency, ensure fast loading times and prioritize mobile responsiveness
+The design goals are to create intuitive booking flow, maintain visual consistency, ensure fast loading times and prioritize mobile responsiveness.
+
 Key Features include property search and filtering, detailed property viewing, secure checkout process and user authentication.
 
 Primary Pages and Description	
@@ -46,6 +47,7 @@ Typography:
 
 .Secondary Text: Circular, Book (400), 14px
 
+
 Importance of identifying design properties of a mockup
 
 Establishes visual consistency: Design properties like color schemes, typography, spacing, and button styles ensure a consistent look and feel across all screens. This consistency enhances brand identity and makes the interface easier for users to understand and navigate.
@@ -78,6 +80,7 @@ Scrum Master : Facilitates agile processes, removes blockers, organizes meetings
 
                      UI Component Patterns
 Navbar
+
 Logo
 
 Search bar
