@@ -36,6 +36,8 @@ Color Styles:
 
 .Secondary Text: #717171
 
+
+
 Typography:
 
 .Primary Font: Circular, Medium (500), 16px
@@ -47,6 +49,7 @@ Typography:
 Importance of identifying design properties of a mockup
 
 Establishes visual consistency: Design properties like color schemes, typography, spacing, and button styles ensure a consistent look and feel across all screens. This consistency enhances brand identity and makes the interface easier for users to understand and navigate.
+
 
                     Project Roles and Responsibilities
                     
@@ -71,6 +74,8 @@ Product Owner: Defines requirements, prioritizes features, represents stakeholde
 
 Scrum Master : Facilitates agile processes, removes blockers, organizes meetings. Contributes to project success by helping the team stay productive and agile, enabling efficient delivery through coaching and support.
 
+
+
                      UI Component Patterns
 Navbar
 Logo
@@ -82,7 +87,10 @@ User navigation
 Responsive menu
 
 
+
+
 Property Card
+
 Property image
 
 Basic details (price, location, rating)
@@ -92,7 +100,10 @@ Favorite button
 Responsive layout
 
 
+
+
 Footer
+
 Site links
 
 Company information
